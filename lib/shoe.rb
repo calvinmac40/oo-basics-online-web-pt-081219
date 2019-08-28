@@ -46,5 +46,6 @@ class Shoe
   def cobble
     @cobble
     @condition = "new"
+    puts 
   end
 end
